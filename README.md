@@ -6,9 +6,7 @@ Design files for accelerometer-based sitting/standing sensor and electrolaminate
 Make sure that you have my hacked up version of the Wire library installed, as we need repeated start I2C. To install
 it, make  backup of the old files and copy my Wire.cpp and Wire.h over them in the 
 
-'''
 MapleIDE.app/Contents/Resources/Java/libraries/Wire/
-'''
 
 directory (If you're on Mac).  This is a gross hack, sorry.
   
